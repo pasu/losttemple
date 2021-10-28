@@ -50,6 +50,10 @@
 
 ## 专题
 
+### LOD
+
+[Adaptive Multiresolution Techniques for I/O, Data Layout, and Visualization of Massive Simulations](https://www.willusher.io/publications/dissertation) - Will Usher. PhD Dissertation, University of Utah, 2021.
+
 ### 反走样
 [GAMES101 Lecture 6 Rasterization](https://www.bilibili.com/video/BV1X7411F744?p=6)-走样解释
 
