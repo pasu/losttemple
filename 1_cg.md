@@ -57,6 +57,9 @@
 ### 反走样
 [GAMES101 Lecture 6 Rasterization](https://www.bilibili.com/video/BV1X7411F744?p=6)-走样解释
 
+#### 线
+[How to draw lines in WebGL](https://www.khronos.org/assets/uploads/developers/presentations/Crazy_Panda_How_to_draw_lines_in_WebGL.pdf)
+
 #### 字体
 [SDF字体渲染](https://www.zhihu.com/search?type=content&q=sdf%20font) - SDF字体渲染介绍
 
