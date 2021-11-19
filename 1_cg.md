@@ -25,6 +25,9 @@
 | ------------- | ------------- | ------------- |
 | 	[3D数学基础 (2005)](https://book.douban.com/subject/1400419/)  | 研究隐藏在3D几何世界背后的数学问题。 | :star: :star: :star: :star: :star:|
 | 	[Convex optimization (2004)](https://www.youtube.com/watch?v=Rhe7JG7NaIM&list=PL8WsPW41L6l7rviIGvIkY0-jn-tM3YSNi)  |[下载](./books/convex_optimization) | :star: :star: :star: :star: :star:|
+| 	Numerical Optimization (2006)  | Jorge Nocedal and Stephen J.Wright | :star: :star: :star: :star: :star:|
+| 	Handbook of Markov Chain Monte Carlo (2011)  | Steve Brooks, Andrew Gelman, Galin Jones, and Xiao-Li Meng | :star: :star: :star: :star: :star:|
+| 	Monte Carlo theory, methods and examples, (2013)  | Art B. Owen | :star: :star: :star: :star: :star:|
 
 ## Geometry
 
