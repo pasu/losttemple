@@ -70,4 +70,4 @@
 [Euclidean Distance Transform 论文集](http://www.lysator.liu.se/~ingemar/books/Ingemar%20Ragnemalm%20-%20The%20Euclidean%20Distance%20Transform%20(dissertation).pdf)
 
 #### 法线
-[Consistent Normal Interpolation](./papers/ConsistentNormalInterpolation) - shading normal
+[Consistent Normal Interpolation](./papers/ConsistentNormalInterpolation.pdf) - shading normal
