@@ -68,3 +68,6 @@
 [SDF字体渲染](https://www.zhihu.com/search?type=content&q=sdf%20font) - SDF字体渲染介绍
 
 [Euclidean Distance Transform 论文集](http://www.lysator.liu.se/~ingemar/books/Ingemar%20Ragnemalm%20-%20The%20Euclidean%20Distance%20Transform%20(dissertation).pdf)
+
+#### 法线
+[Consistent Normal Interpolation](./papers/ConsistentNormalInterpolation) - shading normal
