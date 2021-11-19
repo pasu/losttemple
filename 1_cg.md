@@ -24,6 +24,7 @@
 | 书名  | 简介 | 推荐指数 |
 | ------------- | ------------- | ------------- |
 | 	[3D数学基础 (2005)](https://book.douban.com/subject/1400419/)  | 研究隐藏在3D几何世界背后的数学问题。 | :star: :star: :star: :star: :star:|
+| 	[Convex optimization (2004)](https://www.youtube.com/watch?v=Rhe7JG7NaIM&list=PL8WsPW41L6l7rviIGvIkY0-jn-tM3YSNi)  |[下载](./books/convex_optimization) | :star: :star: :star: :star: :star:|
 
 ## Geometry
 
