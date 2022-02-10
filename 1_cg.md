@@ -28,7 +28,7 @@
 | 	Numerical Optimization (2006)  | Jorge Nocedal and Stephen J.Wright | :star: :star: :star: :star: :star:|
 | 	Handbook of Markov Chain Monte Carlo (2011)  | Steve Brooks, Andrew Gelman, Galin Jones, and Xiao-Li Meng | :star: :star: :star: :star: :star:|
 | 	Monte Carlo theory, methods and examples, (2013)  | Art B. Owen | :star: :star: :star: :star: :star:|
-| 	[Algebra, Topology, Differential Calculus,   and Optimization Theory](https://www.cis.upenn.edu/~jean/math-deep.pdf), | Jean Gallier | :star: :star: :star: :star: :star:|
+| 	[Algebra, Topology, Differential Calculus,<br> and Optimization Theory](https://www.cis.upenn.edu/~jean/math-deep.pdf), | Jean Gallier | :star: :star: :star: :star: :star:|
 
 ## Geometry
 
