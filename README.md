@@ -18,6 +18,8 @@ Ideas are bulletproof.
 
 [Resource for CS](http://kesen.realtimerendering.com/) - 图形学论文资源
 
+[计算机图形学与混合现实在线平台](https://games-cn.org/) - Graphics And Mixed Environment Symposium
+
 
 
 :monkey_face: Keep Reading , Keep Coding. :see_no_evil:
