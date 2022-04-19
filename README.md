@@ -16,7 +16,7 @@ Ideas are bulletproof.
 
 [Library Genesis](http://libgen.rs/) - 书籍下载网站
 
-[Ke-Sen Huang's Home Page](http://kesen.realtimerendering.com/) - :star: 图形学论文资源
+[Ke-Sen Huang's Home Page](http://kesen.realtimerendering.com/) - 图形学论文资源
 
 [计算机图形学与混合现实在线平台](https://games-cn.org/) - Graphics And Mixed Environment Symposium (GAMES)
 
